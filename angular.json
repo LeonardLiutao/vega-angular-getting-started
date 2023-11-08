@@ -26,7 +26,11 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": ["node_modules/@heartlandone/vega/style/vega.css"],
+            "styles": [
+              "node_modules/@heartlandone/vega/style/vega.css",
+              "node_modules/@fortawesome/fontawesome-free/css/fontawesome.min.css",
+              "node_modules/@fortawesome/fontawesome-free/css/regular.min.css"
+            ],
             "scripts": []
           },
           "configurations": {
